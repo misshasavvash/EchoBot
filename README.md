@@ -11,4 +11,5 @@
 
 # Docker
 Для создания образа я написал Dockerfile со всеми настройками. Далее я прописал в консоль команду "docker build -t echobot .". Образ создался. Для его запуска прописываем команду "docker run --rm echobot". Бот работает.
-![image](https://github.com/user-attachments/assets/0af816bf-e039-41db-ad8c-8da3a00901d6)
+![image](https://github.com/user-attachments/assets/c4448f22-6485-4f13-9578-a6e0b28d5eed)
+
